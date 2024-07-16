@@ -6,16 +6,12 @@ function App() {
       <h1>First React App Installation</h1>
       <h5>What is React?</h5>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt at possimus, ut recusandae maxime tempore ea mollitia iste nobis in fuga esse distinctio magni quis aspernatur exercitationem fugit odio architecto. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat vero deleniti distinctio dolorem cupiditate at possimus, quam similique veniam a aut facere ab laudantium harum voluptatibus voluptas necessitatibus inventore dolore.
+      React is a popular JavaScript library for building user interfaces, particularly for single-page applications where a smooth, dynamic user experience is crucial. Developed by Facebook, React allows developers to create reusable UI components that manage their own state, which makes complex interfaces easier to manage and develop. By utilizing a virtual DOM, React efficiently updates and renders only the necessary components when the application's state changes, resulting in fast and responsive user interfaces. Its component-based architecture and unidirectional data flow enhance both development speed and maintainability.
       </p>
 
       <ol>
-        <li>Junrih</li>
-        <li>Zean</li>
-
-        <p>
-          <b>Note:</b>Make sure to change the Web App Name that appears in Browser Tab
-        </p>
+        <li>Junrih Rizada</li>
+        <li>Zean Mariuss Algarme</li>
       </ol>
     </div>
         
